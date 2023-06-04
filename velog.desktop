@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
 Name=velog
-Icon=/home/bert/Documents/velog_logo.png
+Icon=/home/bert/Desktop/.icon/velog_logo.png
 Exec=google-chrome https://velog.io/@everglow83

@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
 Name=chatGPT
-Icon=/home/bert/Documents/ChatGPT_logo.png
+Icon=/home/bert/Desktop/.icon/ChatGPT_logo.png
 Exec=google-chrome https://chat.openai.com/
