@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=onedrive
+Icon=/home/bert/Desktop/.icon/onedrive_logo.png
+Exec=google-chrome https://onedrive.live.com/
